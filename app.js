@@ -1,0 +1,1 @@
+window.alert("my first js file")
