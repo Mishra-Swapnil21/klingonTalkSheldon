@@ -1,8 +1,57 @@
+body {
+    margin: 0px;
+
+}
 textarea {
     width: 80%;
     height:10vh;
     display:block;
     margin: 1rem;
     padding: 1rem;
+}
+
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+h1 {
+    font-size:80px;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem; 
+    
+}
+h3 {
+    
+    text-align: center;
+    
+}
+
+.header {
+    background-color: darkolivegreen;
+    font-style: italic; 
+    color: black;
+    padding: 0.2rem 0rem;
+}
+
+#list-item-inline {
+    list-style: none;
+    text-decoration: none;
+    display: inline;
+    padding-right: 1rem;
+}
+
+footer {
+    margin: 0px ;
+    font-style: normal; 
+    color: black;
+    background-color: darkolivegreen ;
+    padding-top: 1rem;
+
 
 }
+
